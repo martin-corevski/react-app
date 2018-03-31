@@ -1,6 +1,6 @@
-# React basics
+# React app
 
-React 16 basic setup with Webpack 4.
+React 16 app setup with Webpack 4. More information on the setup [project](https://github.com/martin-corevski/react-basics) and [wiki](https://github.com/martin-corevski/react-basics/wiki/DIY-repository-setup)
 
 ---
 ## Install dependencies
