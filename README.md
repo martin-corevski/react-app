@@ -1,6 +1,6 @@
 # React app
 
-React 16 app setup with Webpack 4 and axios. More information on the setup [project](https://github.com/martin-corevski/react-basics) and [wiki](https://github.com/martin-corevski/react-basics/wiki/DIY-repository-setup). For the http requests basics [project](https://github.com/martin-corevski/react-basics-http) and [wiki](https://github.com/martin-corevski/react-basics-http/wiki/DIY-repository-setup).
+React 16 app setup with Webpack 4, axios and router. More information on the setup [project](https://github.com/martin-corevski/react-basics) and [wiki](https://github.com/martin-corevski/react-basics/wiki/DIY-repository-setup). For the http requests basics [project](https://github.com/martin-corevski/react-basics-http) and [wiki](https://github.com/martin-corevski/react-basics-http/wiki/DIY-repository-setup). For routing basics [project](https://github.com/martin-corevski/react-basics-routing) and [wiki](https://github.com/martin-corevski/react-basics-routing/wiki/DIY-repository-setup)
 
 ---
 ## Install dependencies
