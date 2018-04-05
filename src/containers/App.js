@@ -1,8 +1,7 @@
 import React, { Component } from 'react'
+import { BrowserRouter } from 'react-router-dom'
 
 // import classes from './App.scss'
-// import Aux from '../hoc/Auxiliary'
-// import wrapWithClass from '../hoc/wrapWithClass'
 
 class App extends Component {
   constructor (props) {
@@ -56,12 +55,11 @@ class App extends Component {
     console.log('[App.js] render')
 
     return (
-      // <Aux>
-      <h1>Default project setup works!</h1>
-      // </Aux>
+      <BrowserRouter>
+        <h1>Default project setup works!</h1>
+      </BrowserRouter>
     )
   }
 }
 
 export default App
-// export default wrapWithClass(App, classes.headerSuccess)
