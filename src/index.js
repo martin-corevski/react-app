@@ -4,6 +4,9 @@ import './index.scss'
 import App from './containers/App'
 import axios from 'axios'
 
+// For dotenv-webpack plugin test purposes
+console.log('TEST_ENV_DEV: ', process.env.TEST_ENV_DEV)
+
 // Set up axios default configuration
 axios.defaults.baseURL = 'https://jsonplaceholder.typicode.com'
 
